@@ -1,0 +1,5 @@
+host: sql6.freesqldatabase.com
+dbname: sql6524604
+username: sql6524604
+pass: Zg5kj65P8T
+port: 3306
