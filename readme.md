@@ -68,7 +68,7 @@ This repository is about practice sets 05. It is a website where the user can en
 
 ---
 
-## :round*pushpin: \*\*\_Authors*\*\* :boy:
+## :round_pushpin: **_Authors_** :boy:
 
 ## **_MARK RYAN O GABUCO_** :beginner:
 
