@@ -33,8 +33,8 @@ This repository is about practice sets 05. It is a website where the user can en
    Example:
 
    - **Database name:** test
-   - **Table 1:** account
-   - **Table 2:** person  
+   - **Table 1:** person
+   - **Table 2:** useraccount  
      ![sample](img/test.png)
 
 ### :electric_plug: **Creating a connection to your database**
@@ -68,7 +68,7 @@ This repository is about practice sets 05. It is a website where the user can en
 
 ---
 
-## :round_pushpin: **_Authors_** :boy:
+## :round*pushpin: \*\*\_Authors*\*\* :boy:
 
 ## **_MARK RYAN O GABUCO_** :beginner:
 
